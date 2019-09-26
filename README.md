@@ -1,4 +1,4 @@
-# cosc4355 - Ubiquotous Computing
+# cosc4355 - Ubiquitous Computing
 
 #Now on tim_branch again
 To run:
