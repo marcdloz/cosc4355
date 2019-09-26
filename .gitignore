@@ -1,0 +1,7 @@
+# ignore files prior to commits 
+
+# System Files 
+.DS_Store
+
+# xcode
+*.xcuserstate
